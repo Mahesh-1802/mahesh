@@ -26,6 +26,8 @@ class Switch1
 			case 7:
 				System.out.println("saturday");
 			break;
+			default:
+				System.out.println("bye ");
 		}
 	}
 }
